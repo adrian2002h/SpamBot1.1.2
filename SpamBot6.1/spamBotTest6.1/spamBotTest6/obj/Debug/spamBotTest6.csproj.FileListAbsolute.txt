@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.Form1.resources
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.Properties.Resources.resources
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\bin\Debug\spamBotTest6.exe.config
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\bin\Debug\spamBotTest6.exe
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\bin\Debug\spamBotTest6.pdb
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.exe
+C:\Users\adria\source\repos\spamBotTest6\spamBotTest6\obj\Debug\spamBotTest6.pdb
